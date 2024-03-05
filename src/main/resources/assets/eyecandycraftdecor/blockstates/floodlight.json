@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/floodlight",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/floodlight"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/floodlight",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/floodlight",
+      "y": 270
+    }
+  }
+}

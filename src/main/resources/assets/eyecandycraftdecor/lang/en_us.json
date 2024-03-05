@@ -1,0 +1,12 @@
+{
+  "itemGroup.eyecandycraftdecorcreativetab": "EyeCandyCraft - Decor",
+
+  "block.eyecandycraftdecor.antenna4g": "4G Antenna",
+  "block.eyecandycraftdecor.antenna900mhz": "900MHz Sector Antenna",
+  "block.eyecandycraftdecor.floodlight": "Floodlight",
+  "block.eyecandycraftdecor.antennagp": "Ground Plane Antenna",
+  "block.eyecandycraftdecor.antennalp": "Log Periodic Antenna",
+  "block.eyecandycraftdecor.satellitedish": "Satellite Dish",
+  "block.eyecandycraftdecor.antennavd": "V-Dipole Satellite Antenna",
+  "block.eyecandycraftdecor.antennavhf": "VHF Yagi Uda Antenna"
+}

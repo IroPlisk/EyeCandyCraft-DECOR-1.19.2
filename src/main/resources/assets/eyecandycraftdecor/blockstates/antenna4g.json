@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/antenna4g"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/antenna4g",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/antenna4g",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/antenna4g",
+      "y": 90
+    }
+  }
+}

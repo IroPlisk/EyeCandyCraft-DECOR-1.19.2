@@ -8,5 +8,11 @@
   "block.eyecandycraftdecor.antennalp": "Log Periodic Antenna",
   "block.eyecandycraftdecor.satellitedish": "Satellite Dish",
   "block.eyecandycraftdecor.antennavd": "V-Dipole Satellite Antenna",
-  "block.eyecandycraftdecor.antennavhf": "VHF Yagi Uda Antenna"
+  "block.eyecandycraftdecor.antennavhf": "VHF Yagi Uda Antenna",
+  "block.eyecandycraftdecor.antipassaggio": "Anti-pass",
+  "block.eyecandycraftdecor.cctv": "CCTV Camera",
+  "block.eyecandycraftdecor.estintoretarga": "Extinguisher with tag",
+  "block.eyecandycraftdecor.estintoresanstarga": "Extinguisher",
+  "block.eyecandycraftdecor.latticepost": "Lattice Post",
+  "block.eyecandycraftdecor.roovycacca": "Loovy melda"
 }

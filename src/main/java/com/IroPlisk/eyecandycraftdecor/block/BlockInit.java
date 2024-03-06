@@ -21,35 +21,59 @@ public class BlockInit {
             DeferredRegister.create(ForgeRegistries.BLOCKS, EyeCandyCraftDecor.MODID);
 
     public static final RegistryObject<Block> ANTENNA_4G = registerBlock("antenna4g",
-            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.CLAY)
+            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> ANTENNA_900MHZ = registerBlock("antenna900mhz",
-            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.CLAY)
+            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> FLOODLIGHT = registerBlock("floodlight",
-            () -> new WallmountBlockModel(BlockBehaviour.Properties.of(Material.CLAY)
+            () -> new WallmountBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> ANTENNA_GP = registerBlock("antennagp",
-            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.CLAY)
+            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> ANTENNA_LP = registerBlock("antennalp",
-            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.CLAY)
+            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> SATELLITE_DISH = registerBlock("satellitedish",
-            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.CLAY)
+            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> ANTENNA_VD = registerBlock("antennavd",
-            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.CLAY)
+            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> ANTENNA_VHF = registerBlock("antennavhf",
-            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.CLAY)
+            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> ANTI_PASSAGGIO = registerBlock("antipassaggio",
+            () -> new WallBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> CCTV = registerBlock("cctv",
+            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> ESTINTORE_CON_TARGA = registerBlock("estintoretarga",
+            () -> new WallmountBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> ESTINTORE_SENZA_TARGA = registerBlock("estintoresanstarga",
+            () -> new WallmountBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> LATTICE_POST = registerBlock("latticepost",
+            () -> new LatticeBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> ROOVY_CACCA = registerBlock("roovycacca",
+            () -> new WallBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
 

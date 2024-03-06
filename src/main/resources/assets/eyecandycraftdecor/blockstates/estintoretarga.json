@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/estintoretarga",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/estintoretarga"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/estintoretarga",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/estintoretarga",
+      "y": 270
+    }
+  }
+}

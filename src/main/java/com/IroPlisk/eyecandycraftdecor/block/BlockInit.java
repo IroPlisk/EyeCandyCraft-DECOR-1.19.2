@@ -53,7 +53,7 @@ public class BlockInit {
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> ANTI_PASSAGGIO = registerBlock("antipassaggio",
-            () -> new WallBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+            () -> new BarrierBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> CCTV = registerBlock("cctv",
@@ -73,7 +73,11 @@ public class BlockInit {
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> ROOVY_CACCA = registerBlock("roovycacca",
-            () -> new WallBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+            () -> new BarrierBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> BANCHINA_BORDO = registerBlock("banchinabordo",
+            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
 

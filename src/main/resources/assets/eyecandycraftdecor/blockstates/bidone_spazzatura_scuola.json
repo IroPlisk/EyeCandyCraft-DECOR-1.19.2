@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/bidone_spazzatura_scuola"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/bidone_spazzatura_scuola",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/bidone_spazzatura_scuola",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/bidone_spazzatura_scuola",
+      "y": 90
+    }
+  }
+}

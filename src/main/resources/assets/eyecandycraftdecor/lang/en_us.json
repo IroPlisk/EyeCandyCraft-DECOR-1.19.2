@@ -3,17 +3,38 @@
 
   "block.eyecandycraftdecor.antenna4g": "4G Antenna",
   "block.eyecandycraftdecor.antenna900mhz": "900MHz Sector Antenna",
-  "block.eyecandycraftdecor.floodlight": "Floodlight",
   "block.eyecandycraftdecor.antennagp": "Ground Plane Antenna",
   "block.eyecandycraftdecor.antennalp": "Log Periodic Antenna",
   "block.eyecandycraftdecor.satellitedish": "Satellite Dish",
   "block.eyecandycraftdecor.antennavd": "V-Dipole Satellite Antenna",
   "block.eyecandycraftdecor.antennavhf": "VHF Yagi Uda Antenna",
   "block.eyecandycraftdecor.antipassaggio": "Anti-pass",
-  "block.eyecandycraftdecor.cctv": "CCTV Camera",
-  "block.eyecandycraftdecor.estintoretarga": "Extinguisher with tag",
-  "block.eyecandycraftdecor.estintoresanstarga": "Extinguisher",
   "block.eyecandycraftdecor.latticepost": "Lattice Post",
   "block.eyecandycraftdecor.roovycacca": "Loovy melda",
-  "block.eyecandycraftdecor.banchinabordo": "Bordo Banchina"
+  "block.eyecandycraftdecor.stante": "Stante",
+  "block.eyecandycraftdecor.stante_segnale": "Stante - Segnale",
+
+  "block.eyecandycraftdecor.banchina_bordo_con_handicap": "Bordo Banchina con handicap",
+  "block.eyecandycraftdecor.banchina_bordo": "Bordo Banchina",
+  "block.eyecandycraftdecor.banchina_centro": "Centro Banchina",
+  "block.eyecandycraftdecor.banchina_con_panchina": "Banchina con panchina",
+  "block.eyecandycraftdecor.banchina_disabili_a_t": "Banchina per disabili a T",
+  "block.eyecandycraftdecor.banchina_linea_gialla_per_disabili": "Banchina linea gialla per disabili",
+  "block.eyecandycraftdecor.banchina_linea_gialla": "Banchina linea gialla",
+
+  "block.eyecandycraftdecor.bidone_spazzatura_scuola": "Bidone spazzatura da scuola",
+  "block.eyecandycraftdecor.bidone_spazzatura_singolo_pieno": "Bidone spazzatura singolo (pieno)",
+  "block.eyecandycraftdecor.bidone_spazzatura_singolo": "Bidone spazzatura singolo",
+
+  "block.eyecandycraftdecor.cctv_basic_camera_routata": "CCTV Camera routata",
+  "block.eyecandycraftdecor.cctv_basic_camera": "CCTV Camera",
+  "block.eyecandycraftdecor.cctv_ptz_camera": "CCTV PTZ Camera",
+
+  "block.eyecandycraftdecor.estintoretarga": "Estintore con targa",
+  "block.eyecandycraftdecor.estintore": "Estintore",
+
+  "block.eyecandycraftdecor.floodlight": "Floodlight",
+  "block.eyecandycraftdecor.flat_neon": "Lampadario Neon",
+  "block.eyecandycraftdecor.neon": "Neon",
+  "block.eyecandycraftdecor.lampadario": "Lampadario"
 }

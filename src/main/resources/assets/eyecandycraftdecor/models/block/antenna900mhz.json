@@ -129,5 +129,22 @@
 				"down": {"uv": [0, 0, 2, 10.9], "rotation": 90, "texture": "#missing"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5.75, 0]
+		},
+		"gui": {
+			"rotation": [33, 50, 0],
+			"translation": [0.5, -2, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 14, 0]
+		},
+		"fixed": {
+			"translation": [0, -1.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
 }

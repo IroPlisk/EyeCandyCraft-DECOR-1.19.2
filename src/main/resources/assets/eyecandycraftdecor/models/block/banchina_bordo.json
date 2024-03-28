@@ -1,0 +1,21 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "eyecandycraftdecor:block/banchina_bordo",
+		"particle": "eyecandycraftdecor:block/banchina_bordo"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 6, 16],
+			"faces": {
+				"north": {"uv": [8, 7, 16, 10.375], "texture": "#0"},
+				"east": {"uv": [8, 7, 16, 10.375], "texture": "#0"},
+				"south": {"uv": [8, 10.5, 16, 14], "texture": "#0"},
+				"west": {"uv": [8, 3.5, 16, 6.875], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 9, 8, 16], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "eyecandycraftdecor:block/banchina_linea_gialla_per_disabili",
+		"particle": "eyecandycraftdecor:block/banchina_linea_gialla_per_disabili"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 6, 16],
+			"faces": {
+				"north": {"uv": [8, 0, 16, 3.5], "texture": "#0"},
+				"east": {"uv": [8, 3.5, 16, 7], "texture": "#0"},
+				"south": {"uv": [8, 7, 16, 10.5], "texture": "#0"},
+				"west": {"uv": [8, 10.5, 16, 14], "texture": "#0"},
+				"up": {"uv": [8, 8, 0, 0], "texture": "#0"},
+				"down": {"uv": [8, 8, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 6.75, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [6.75, 0, -3.25]
+		},
+		"ground": {
+			"rotation": [-42, 27, 0],
+			"translation": [0, 6.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [-74, -66, -95],
+			"translation": [1, 1.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 12.25, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -4]
+		}
+	}
+}

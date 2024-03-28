@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/bidone_spazzatura_singolo_pieno",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/bidone_spazzatura_singolo_pieno",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/bidone_spazzatura_singolo_pieno"
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/bidone_spazzatura_singolo_pieno",
+      "y": 180
+    }
+  }
+}

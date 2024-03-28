@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/flat_neon",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/flat_neon"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/flat_neon",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/flat_neon",
+      "y": 270
+    }
+  }
+}

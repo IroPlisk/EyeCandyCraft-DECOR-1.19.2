@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/lampadario"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/lampadario",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/lampadario",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/lampadario",
+      "y": 90
+    }
+  }
+}

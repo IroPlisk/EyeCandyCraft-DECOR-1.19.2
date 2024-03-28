@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/banchina_disabili_a_t"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/banchina_disabili_a_t",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/banchina_disabili_a_t",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/banchina_disabili_a_t",
+      "y": 90
+    }
+  }
+}

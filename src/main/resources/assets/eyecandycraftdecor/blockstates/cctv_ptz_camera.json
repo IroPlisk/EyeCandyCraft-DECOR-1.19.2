@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/cctv_ptz_camera",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/cctv_ptz_camera"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/cctv_ptz_camera",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/cctv_ptz_camera",
+      "y": 270
+    }
+  }
+}

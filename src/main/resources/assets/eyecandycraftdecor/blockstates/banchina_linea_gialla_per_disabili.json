@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/banchina_linea_gialla_per_disabili"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/banchina_linea_gialla_per_disabili",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/banchina_linea_gialla_per_disabili",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/banchina_linea_gialla_per_disabili",
+      "y": 90
+    }
+  }
+}

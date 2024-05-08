@@ -1,0 +1,184 @@
+{
+	"credit": "Made by Roovy",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "eyecandycraftdecor:block/palo_scala",
+		"particle": "eyecandycraftdecor:block/palo_scala"
+	},
+	"elements": [
+		{
+			"name": "Palo",
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 2, 4, 10], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 10], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 10], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 10], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Grad1",
+			"from": [11, 0, 7.5],
+			"to": [12, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [8.5, 0.5, 9, 8.5], "texture": "#0"},
+				"east": {"uv": [8, 0.5, 8.5, 8.5], "texture": "#0"},
+				"south": {"uv": [9.5, 0.5, 10, 8.5], "texture": "#0"},
+				"west": {"uv": [9, 0.5, 9.5, 8.5], "texture": "#0"},
+				"up": {"uv": [9, 0.5, 8.5, 0], "texture": "#0"},
+				"down": {"uv": [9.5, 0, 9, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Grad2",
+			"from": [11, 10, 4.5],
+			"to": [12, 11, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1.5, 11.5, 2, 12], "texture": "#0"},
+				"east": {"uv": [0, 11.5, 1.5, 12], "texture": "#0"},
+				"south": {"uv": [3.5, 11.5, 4, 12], "texture": "#0"},
+				"west": {"uv": [2, 11.5, 3.5, 12], "texture": "#0"},
+				"up": {"uv": [2, 11.5, 1.5, 10], "texture": "#0"},
+				"down": {"uv": [2.5, 10, 2, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Grad3",
+			"from": [11, 6, 8.5],
+			"to": [12, 7, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10.5, 10.5, 11, 11], "texture": "#0"},
+				"east": {"uv": [9, 10.5, 10.5, 11], "texture": "#0"},
+				"south": {"uv": [12.5, 10.5, 13, 11], "texture": "#0"},
+				"west": {"uv": [11, 10.5, 12.5, 11], "texture": "#0"},
+				"up": {"uv": [11, 10.5, 10.5, 9], "texture": "#0"},
+				"down": {"uv": [11.5, 9, 11, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Grad4",
+			"from": [11, 14, 8.5],
+			"to": [12, 15, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10.5, 8.5, 11, 9], "texture": "#0"},
+				"east": {"uv": [9, 8.5, 10.5, 9], "texture": "#0"},
+				"south": {"uv": [12.5, 8.5, 13, 9], "texture": "#0"},
+				"west": {"uv": [11, 8.5, 12.5, 9], "texture": "#0"},
+				"up": {"uv": [11, 8.5, 10.5, 7], "texture": "#0"},
+				"down": {"uv": [11.5, 7, 11, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Grad5",
+			"from": [11, 2, 4.5],
+			"to": [12, 3, 7.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [8, 10, 8.5, 10.5], "texture": "#0"},
+				"east": {"uv": [6.5, 10, 8, 10.5], "texture": "#0"},
+				"south": {"uv": [10, 10, 10.5, 10.5], "texture": "#0"},
+				"west": {"uv": [8.5, 10, 10, 10.5], "texture": "#0"},
+				"up": {"uv": [8.5, 10, 8, 8.5], "texture": "#0"},
+				"down": {"uv": [9, 8.5, 8.5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Grad6",
+			"from": [10, 2, 7.5],
+			"to": [11, 3, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 1.5, 1, 2], "texture": "#0"},
+				"east": {"uv": [0, 1.5, 0.5, 2], "texture": "#0"},
+				"south": {"uv": [1.5, 1.5, 2, 2], "texture": "#0"},
+				"west": {"uv": [1, 1.5, 1.5, 2], "texture": "#0"},
+				"up": {"uv": [1, 1.5, 0.5, 1], "texture": "#0"},
+				"down": {"uv": [1.5, 1, 1, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Grad7",
+			"from": [10, 13, 7.5],
+			"to": [11, 14, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0.5, 0.5, 1, 1], "texture": "#0"},
+				"east": {"uv": [0, 0.5, 0.5, 1], "texture": "#0"},
+				"south": {"uv": [1.5, 0.5, 2, 1], "texture": "#0"},
+				"west": {"uv": [1, 0.5, 1.5, 1], "texture": "#0"},
+				"up": {"uv": [1, 0.5, 0.5, 0], "texture": "#0"},
+				"down": {"uv": [1.5, 0, 1, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"rotation": [20, -45, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "Palo",
+			"origin": [10, 16, 6],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "Grad1",
+			"origin": [12, 16, 7.5],
+			"color": 0,
+			"children": [1]
+		},
+		{
+			"name": "Grad2",
+			"origin": [12, 11, 4.5],
+			"color": 0,
+			"children": [2]
+		},
+		{
+			"name": "Grad3",
+			"origin": [12, 7, 8.5],
+			"color": 0,
+			"children": [3]
+		},
+		{
+			"name": "Grad4",
+			"origin": [12, 15, 8.5],
+			"color": 0,
+			"children": [4]
+		},
+		{
+			"name": "Grad5",
+			"origin": [12, 3, 4.5],
+			"color": 0,
+			"children": [5]
+		},
+		{
+			"name": "Grad6",
+			"origin": [11, 3, 7.5],
+			"color": 0,
+			"children": [6]
+		},
+		{
+			"name": "Grad7",
+			"origin": [11, 14, 7.5],
+			"color": 0,
+			"children": [7]
+		}
+	]
+}

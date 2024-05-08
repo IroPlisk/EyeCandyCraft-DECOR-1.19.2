@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "czc",
+    "aka",
+    "ata"
+  ],
+  "key": {
+    "c": {
+      "item": "ic2:circuit"
+    },
+    "z": {
+      "tag": "forge:plates/zinc"
+    },
+    "a": {
+      "tag": "forge:plates/aluminium"
+    },
+    "k": {
+      "item": "ic2:advanced_circuit"
+    },
+    "t": {
+      "tag": "forge:ingots/tungsten"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:antenna4g"
+  }
+}

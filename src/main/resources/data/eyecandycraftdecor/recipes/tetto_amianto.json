@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cac",
+    "aca",
+    "cac"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:clay_ball"
+    },
+    "a": {
+      "item": "enhancedgeology:chrysotile"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:tetto_amianto",
+    "count": 16
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/old_phone"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/old_phone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/old_phone",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/old_phone",
+      "y": 90
+    }
+  }
+}

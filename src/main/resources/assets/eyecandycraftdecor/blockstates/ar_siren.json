@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/ar_siren",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/ar_siren"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/ar_siren",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/ar_siren",
+      "y": 270
+    }
+  }
+}

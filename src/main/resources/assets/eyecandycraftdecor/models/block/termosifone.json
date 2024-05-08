@@ -1,0 +1,307 @@
+{
+	"credit": "Made by Roovy",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "eyecandycraftdecor:block/tetto_amianto",
+		"particle": "eyecandycraftdecor:block/tetto_amianto"
+	},
+	"elements": [
+		{
+			"name": "Aletta1",
+			"from": [1, 1, 8],
+			"to": [4, 15, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0.5, 0.5, 7.5], "texture": "#0"},
+				"east": {"uv": [2.5, 0.5, 2, 7.5], "texture": "#0"},
+				"south": {"uv": [4, 0.5, 2.5, 7.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 7.5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Aletta2",
+			"from": [1, 1, 10],
+			"to": [4, 15, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0.5, 0.5, 7.5], "texture": "#0"},
+				"east": {"uv": [2.5, 0.5, 2, 7.5], "texture": "#0"},
+				"south": {"uv": [4, 0.5, 2.5, 7.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 7.5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Aletta3",
+			"from": [1, 1, 12],
+			"to": [4, 15, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0.5, 0.5, 7.5], "texture": "#0"},
+				"east": {"uv": [2.5, 0.5, 2, 7.5], "texture": "#0"},
+				"south": {"uv": [4, 0.5, 2.5, 7.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 7.5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Aletta4",
+			"from": [1, 1, 14],
+			"to": [4, 15, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0.5, 0.5, 7.5], "texture": "#0"},
+				"east": {"uv": [2.5, 0.5, 2, 7.5], "texture": "#0"},
+				"south": {"uv": [4, 0.5, 2.5, 7.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 7.5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Aletta5",
+			"from": [1, 1, 6],
+			"to": [4, 15, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0.5, 0.5, 7.5], "texture": "#0"},
+				"east": {"uv": [2.5, 0.5, 2, 7.5], "texture": "#0"},
+				"south": {"uv": [4, 0.5, 2.5, 7.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 7.5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Aletta6",
+			"from": [1, 1, 4],
+			"to": [4, 15, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0.5, 0.5, 7.5], "texture": "#0"},
+				"east": {"uv": [2.5, 0.5, 2, 7.5], "texture": "#0"},
+				"south": {"uv": [4, 0.5, 2.5, 7.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 7.5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Aletta7",
+			"from": [1, 1, 2],
+			"to": [4, 15, 3],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0.5, 0.5, 7.5], "texture": "#0"},
+				"east": {"uv": [2.5, 0.5, 2, 7.5], "texture": "#0"},
+				"south": {"uv": [4, 0.5, 2.5, 7.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 7.5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "CollMandata",
+			"from": [2, 12, 1],
+			"to": [3, 13, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [7, 6.5, 6.5, 7], "texture": "#0"},
+				"east": {"uv": [13.5, 6.5, 7, 7], "texture": "#0"},
+				"south": {"uv": [14, 6.5, 13.5, 7], "texture": "#0"},
+				"west": {"uv": [6.5, 6.5, 0, 7], "texture": "#0"},
+				"up": {"uv": [6.5, 6.5, 7, 0], "texture": "#0"},
+				"down": {"uv": [7, 0, 7.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "CollRitorno",
+			"from": [2, 2, 1],
+			"to": [3, 3, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [7, 6.5, 6.5, 7], "texture": "#0"},
+				"east": {"uv": [13.5, 6.5, 7, 7], "texture": "#0"},
+				"south": {"uv": [14, 6.5, 13.5, 7], "texture": "#0"},
+				"west": {"uv": [6.5, 6.5, 0, 7], "texture": "#0"},
+				"up": {"uv": [6.5, 6.5, 7, 0], "texture": "#0"},
+				"down": {"uv": [7, 0, 7.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Valvola",
+			"from": [0, 12, 0],
+			"to": [4, 13, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [8, 0.5, 6, 1], "texture": "#0"},
+				"east": {"uv": [8.5, 0.5, 8, 1], "texture": "#0"},
+				"south": {"uv": [10.5, 0.5, 8.5, 1], "texture": "#0"},
+				"west": {"uv": [6, 0.5, 5.5, 1], "texture": "#0"},
+				"up": {"uv": [6, 0.5, 8, 0], "texture": "#0"},
+				"down": {"uv": [8, 0, 10, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Detentore",
+			"from": [0, 2, 0],
+			"to": [4, 3, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2.5, 0.5, 0.5, 1], "texture": "#0"},
+				"east": {"uv": [3, 0.5, 2.5, 1], "texture": "#0"},
+				"south": {"uv": [5, 0.5, 3, 1], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 1], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2.5, 0], "texture": "#0"},
+				"down": {"uv": [2.5, 0, 4.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Supporto1",
+			"from": [0, 11, 13],
+			"to": [3, 12, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0.5, 0.5, 1], "texture": "#0"},
+				"east": {"uv": [2.5, 0.5, 2, 1], "texture": "#0"},
+				"south": {"uv": [4, 0.5, 2.5, 1], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 1], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Supporto2",
+			"from": [0, 11, 3],
+			"to": [3, 12, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 0.5, 0.5, 1], "texture": "#0"},
+				"east": {"uv": [2.5, 0.5, 2, 1], "texture": "#0"},
+				"south": {"uv": [4, 0.5, 2.5, 1], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 1], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3.5, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-5.5, 0, -7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-6.5, 0, -6.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-9, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [-9, -0.25, 0]
+		},
+		"ground": {
+			"translation": [3, 0, 1.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [20, -45, 0],
+			"translation": [2.5, -0.75, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0, -12.75]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0, -6.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "Aletta1",
+			"origin": [4, 15, 8],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "Aletta2",
+			"origin": [4, 15, 10],
+			"color": 0,
+			"children": [1]
+		},
+		{
+			"name": "Aletta3",
+			"origin": [4, 15, 12],
+			"color": 0,
+			"children": [2]
+		},
+		{
+			"name": "Aletta4",
+			"origin": [4, 15, 14],
+			"color": 0,
+			"children": [3]
+		},
+		{
+			"name": "Aletta5",
+			"origin": [4, 15, 6],
+			"color": 0,
+			"children": [4]
+		},
+		{
+			"name": "Aletta6",
+			"origin": [4, 15, 4],
+			"color": 0,
+			"children": [5]
+		},
+		{
+			"name": "Aletta7",
+			"origin": [4, 15, 2],
+			"color": 0,
+			"children": [6]
+		},
+		{
+			"name": "CollMandata",
+			"origin": [3, 13, 1],
+			"color": 0,
+			"children": [7]
+		},
+		{
+			"name": "CollRitorno",
+			"origin": [3, 3, 1],
+			"color": 0,
+			"children": [8]
+		},
+		{
+			"name": "Valvola",
+			"origin": [4, 13, 0],
+			"color": 0,
+			"children": [9]
+		},
+		{
+			"name": "Detentore",
+			"origin": [4, 3, 0],
+			"color": 0,
+			"children": [10]
+		},
+		{
+			"name": "Supporto1",
+			"origin": [3, 12, 13],
+			"color": 0,
+			"children": [11]
+		},
+		{
+			"name": "Supporto2",
+			"origin": [3, 12, 3],
+			"color": 0,
+			"children": [12]
+		}
+	]
+}

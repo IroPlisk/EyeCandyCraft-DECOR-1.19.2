@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/faro_pavimento",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/faro_pavimento"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/faro_pavimento",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/faro_pavimento",
+      "y": 270
+    }
+  }
+}

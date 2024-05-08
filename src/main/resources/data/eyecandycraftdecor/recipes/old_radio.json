@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i  ",
+    "wwb",
+    "www"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "b": {
+      "items": "minecraft:stone_button"
+    },
+    "w": {
+      "items": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:old_radio"
+  }
+}

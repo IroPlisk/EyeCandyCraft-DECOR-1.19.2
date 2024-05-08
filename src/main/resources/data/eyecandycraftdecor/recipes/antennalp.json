@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dd ",
+    "cdd",
+    "dd "
+  ],
+  "key": {
+    "c": {
+      "item": "ic2:circuit"
+    },
+    "d": {
+      "item": "enhancedgeology:duralumin"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:antennalp"
+  }
+}

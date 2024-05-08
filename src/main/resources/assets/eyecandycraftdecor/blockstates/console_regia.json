@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/console_regia",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/console_regia"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/console_regia",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/console_regia",
+      "y": 270
+    }
+  }
+}

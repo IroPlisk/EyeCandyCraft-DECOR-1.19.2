@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iri",
+    "idi",
+    "igi"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:glass_pane"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "d": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:tower_pc"
+  }
+}

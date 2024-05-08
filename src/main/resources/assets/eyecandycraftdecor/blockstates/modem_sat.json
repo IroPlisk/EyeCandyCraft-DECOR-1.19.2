@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/modem_sat",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/modem_sat"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/modem_sat",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/modem_sat",
+      "y": 270
+    }
+  }
+}

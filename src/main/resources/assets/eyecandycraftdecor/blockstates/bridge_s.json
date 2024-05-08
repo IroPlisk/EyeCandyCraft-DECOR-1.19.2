@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/bridge_s"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/bridge_s",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/bridge_s",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/bridge_s",
+      "y": 90
+    }
+  }
+}

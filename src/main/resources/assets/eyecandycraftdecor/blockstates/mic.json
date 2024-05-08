@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/mic"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/mic",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/mic",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/mic",
+      "y": 90
+    }
+  }
+}

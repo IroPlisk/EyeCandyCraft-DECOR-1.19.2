@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/obliterator"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/obliterator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/obliterator",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/obliterator",
+      "y": 90
+    }
+  }
+}

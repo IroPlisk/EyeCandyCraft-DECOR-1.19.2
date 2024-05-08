@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dd ",
+    " d ",
+    "dbd"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:bucket"
+    },
+    "d": {
+      "item": "enhancedgeology:duralumin"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:soffione"
+  }
+}

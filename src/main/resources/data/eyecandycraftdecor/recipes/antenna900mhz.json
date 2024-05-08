@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " d ",
+    "ccc",
+    " d "
+  ],
+  "key": {
+    "c": {
+      "item": "ic2:circuit"
+    },
+    "d": {
+      "item": "enhancedgeology:duralumin"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:antenna900mhz"
+  }
+}

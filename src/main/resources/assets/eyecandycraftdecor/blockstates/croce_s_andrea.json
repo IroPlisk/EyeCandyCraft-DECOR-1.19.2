@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/croce_s_andrea",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/croce_s_andrea"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/croce_s_andrea",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/croce_s_andrea",
+      "y": 270
+    }
+  }
+}

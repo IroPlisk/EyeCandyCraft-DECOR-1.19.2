@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/led_fixture_panel"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/led_fixture_panel",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/led_fixture_panel",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/led_fixture_panel",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eyecandycraftdecor:cctv_basic_camera"
+    }
+  ],
+  "result": {
+    "item": "eyecandycraftdecor:cctv_basic_camera_routata"
+  }
+}

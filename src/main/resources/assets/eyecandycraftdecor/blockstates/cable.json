@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/cable",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/cable"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/cable",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/cable",
+      "y": 270
+    }
+  }
+}

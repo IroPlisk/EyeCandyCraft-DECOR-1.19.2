@@ -1,0 +1,120 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "eyecandycraftdecor:block/faro_pavimento"
+	},
+	"elements": [
+		{
+			"name": "Bracc2",
+			"from": [5.5, 0, 12],
+			"to": [6.5, 7, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1, 0.5, 0.5, 4], "texture": "#0"},
+				"east": {"uv": [1.5, 0.5, 1, 4], "texture": "#0"},
+				"south": {"uv": [2, 0.5, 1.5, 4], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 4], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 1, 0], "texture": "#0"},
+				"down": {"uv": [1, 0, 1.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Faro2",
+			"from": [6, 6.6, 5],
+			"to": [10, 9.6, 8],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3.5, 11.5, 1.5, 13], "texture": "#0"},
+				"east": {"uv": [5, 11.5, 3.5, 13], "texture": "#0"},
+				"south": {"uv": [7, 11.5, 5, 13], "texture": "#0"},
+				"west": {"uv": [1.5, 11.5, 0, 13], "texture": "#0"},
+				"up": {"uv": [1.5, 11.5, 3.5, 10], "texture": "#0"},
+				"down": {"uv": [3.5, 10, 5.5, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Faro1",
+			"from": [5, 9.5, 4],
+			"to": [11, 10.5, 9],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 9, 2.5, 9.5], "texture": "#0"},
+				"east": {"uv": [8, 9, 5.5, 9.5], "texture": "#0"},
+				"south": {"uv": [11, 9, 8, 9.5], "texture": "#0"},
+				"west": {"uv": [2.5, 9, 0, 9.5], "texture": "#0"},
+				"up": {"uv": [2.5, 9, 5.5, 6.5], "texture": "#0"},
+				"down": {"uv": [5.5, 6.5, 8.5, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Bracc1",
+			"from": [9.5, 0, 12],
+			"to": [10.5, 7, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1, 0.5, 0.5, 4], "texture": "#0"},
+				"east": {"uv": [1.5, 0.5, 1, 4], "texture": "#0"},
+				"south": {"uv": [2, 0.5, 1.5, 4], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 0, 4], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 1, 0], "texture": "#0"},
+				"down": {"uv": [1, 0, 1.5, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.75, -4.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4, -5]
+		},
+		"firstperson_righthand": {
+			"translation": [-2.25, 5.25, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-1.75, 4.5, 0]
+		},
+		"ground": {
+			"translation": [0, 7.25, -4.5]
+		},
+		"gui": {
+			"rotation": [20, 45, 0],
+			"translation": [-3.75, 4, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 8, 2.25]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 3, 5]
+		}
+	},
+	"groups": [
+		{
+			"name": "Bracc2",
+			"origin": [6.5, 7, 12],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "Faro2",
+			"origin": [10, 9.1, 12],
+			"color": 0,
+			"children": [1]
+		},
+		{
+			"name": "Faro1",
+			"origin": [11, 10.5, 12],
+			"color": 0,
+			"children": [2]
+		},
+		{
+			"name": "Bracc1",
+			"origin": [10.5, 7, 12],
+			"color": 0,
+			"children": [3]
+		}
+	]
+}

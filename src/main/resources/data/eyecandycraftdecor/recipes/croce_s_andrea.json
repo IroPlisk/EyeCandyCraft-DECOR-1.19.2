@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "rir",
+    " r ",
+    "rir"
+  ],
+  "key": {
+    "r": {
+      "item": "minecraft:red_dye"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:croce_s_andrea"
+  }
+}

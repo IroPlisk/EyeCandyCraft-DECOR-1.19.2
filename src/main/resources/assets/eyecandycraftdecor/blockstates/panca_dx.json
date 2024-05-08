@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/panca_dx"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/panca_dx",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/panca_dx",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/panca_dx",
+      "y": 90
+    }
+  }
+}

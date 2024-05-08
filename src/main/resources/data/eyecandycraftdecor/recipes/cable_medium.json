@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eyecandycraftdecor:cable"
+    }
+  ],
+  "result": {
+    "item": "eyecandycraftdecor:cable_medium",
+    "count": 2
+  }
+}

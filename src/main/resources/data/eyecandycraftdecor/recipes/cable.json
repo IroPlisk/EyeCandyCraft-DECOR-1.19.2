@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii ",
+    " i ",
+    " ii"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/steel"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:cable",
+    "count": 2
+  }
+}

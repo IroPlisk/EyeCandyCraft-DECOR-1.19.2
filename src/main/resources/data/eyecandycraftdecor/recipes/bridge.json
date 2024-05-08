@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    " i ",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "railcraft:black_post"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:bridge",
+    "count": 4
+  }
+}

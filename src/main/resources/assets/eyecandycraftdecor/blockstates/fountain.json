@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/fountain"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/fountain",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/fountain",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/fountain",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/palo_term"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/palo_term",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/palo_term",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/palo_term",
+      "y": 90
+    }
+  }
+}

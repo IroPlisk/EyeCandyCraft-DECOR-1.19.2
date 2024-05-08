@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "www",
+    "www",
+    "i  "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+    "w": {
+      "items": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:panca_sx"
+  }
+}

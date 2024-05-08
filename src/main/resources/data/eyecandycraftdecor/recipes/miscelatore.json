@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " d ",
+    "rdb",
+    "   "
+  ],
+  "key": {
+    "r": {
+      "item": "minecraft:red_dye"
+    },
+    "b": {
+      "item": "minecraft:blue_dye"
+    },
+    "d": {
+      "item": "enhancedgeology:duralumin"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:miscelatore"
+  }
+}

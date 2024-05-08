@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "iii",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/tungsten"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:antipassaggio",
+    "count": 32
+  }
+}

@@ -1,0 +1,142 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "eyecandycraftdecor:block/console_regia"
+	},
+	"elements": [
+		{
+			"name": "ConsoleRegia",
+			"from": [1, 0, 3],
+			"to": [15, 2, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 5, 2.5, 6], "texture": "#0"},
+				"east": {"uv": [8.5, 5, 6, 6], "texture": "#0"},
+				"south": {"uv": [12, 5, 8.5, 6], "texture": "#0"},
+				"west": {"uv": [2.5, 5, 0, 6], "texture": "#0"},
+				"up": {"uv": [2.5, 5, 6, 0], "texture": "#0"},
+				"down": {"uv": [6, 0, 9.5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Manopola1",
+			"from": [13, 2, 11],
+			"to": [14, 3, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13.75, 0.5, 13.5, 1], "texture": "#0"},
+				"east": {"uv": [14, 0.5, 13.75, 1], "texture": "#0"},
+				"south": {"uv": [14.25, 0.5, 14, 1], "texture": "#0"},
+				"west": {"uv": [13.5, 0.5, 13.25, 1], "texture": "#0"},
+				"up": {"uv": [13.5, 0.5, 13.75, 0], "texture": "#0"},
+				"down": {"uv": [13.75, 0, 14, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Manopola2",
+			"from": [13, 2, 9],
+			"to": [14, 3, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13.75, 0.5, 13.5, 1], "texture": "#0"},
+				"east": {"uv": [14, 0.5, 13.75, 1], "texture": "#0"},
+				"south": {"uv": [14.25, 0.5, 14, 1], "texture": "#0"},
+				"west": {"uv": [13.5, 0.5, 13.25, 1], "texture": "#0"},
+				"up": {"uv": [13.5, 0.5, 13.75, 0], "texture": "#0"},
+				"down": {"uv": [13.75, 0, 14, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Manopola3",
+			"from": [13, 2, 7],
+			"to": [14, 3, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13.75, 0.5, 13.5, 1], "texture": "#0"},
+				"east": {"uv": [14, 0.5, 13.75, 1], "texture": "#0"},
+				"south": {"uv": [14.25, 0.5, 14, 1], "texture": "#0"},
+				"west": {"uv": [13.5, 0.5, 13.25, 1], "texture": "#0"},
+				"up": {"uv": [13.5, 0.5, 13.75, 0], "texture": "#0"},
+				"down": {"uv": [13.75, 0, 14, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Manopola4",
+			"from": [13, 2, 5],
+			"to": [14, 3, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [13.75, 0.5, 13.5, 1], "texture": "#0"},
+				"east": {"uv": [14, 0.5, 13.75, 1], "texture": "#0"},
+				"south": {"uv": [14.25, 0.5, 14, 1], "texture": "#0"},
+				"west": {"uv": [13.5, 0.5, 13.25, 1], "texture": "#0"},
+				"up": {"uv": [13.5, 0.5, 13.75, 0], "texture": "#0"},
+				"down": {"uv": [13.75, 0, 14, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 6, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 7, 0]
+		},
+		"ground": {
+			"translation": [0, 7, 0]
+		},
+		"gui": {
+			"rotation": [20, -135, 0],
+			"translation": [0, 5.25, 0]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0.5, -13.25]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -1, -6.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "ConsoleRegia",
+			"origin": [15, 2, 3],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "Manopola1",
+			"origin": [14, 3, 11],
+			"color": 0,
+			"children": [1]
+		},
+		{
+			"name": "Manopola2",
+			"origin": [14, 3, 9],
+			"color": 0,
+			"children": [2]
+		},
+		{
+			"name": "Manopola3",
+			"origin": [14, 3, 7],
+			"color": 0,
+			"children": [3]
+		},
+		{
+			"name": "Manopola4",
+			"origin": [14, 3, 5],
+			"color": 0,
+			"children": [4]
+		}
+	]
+}

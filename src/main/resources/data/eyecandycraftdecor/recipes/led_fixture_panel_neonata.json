@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eyecandycraftdecor:led_fixture_panel"
+    }
+  ],
+  "result": {
+    "item": "eyecandycraftdecor:flat_neon"
+  }
+}

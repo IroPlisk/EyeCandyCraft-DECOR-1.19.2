@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/tv_lcd"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/tv_lcd",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/tv_lcd",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/tv_lcd",
+      "y": 90
+    }
+  }
+}

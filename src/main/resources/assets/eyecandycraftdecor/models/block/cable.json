@@ -1,0 +1,47 @@
+{
+	"credit": "Made by Roovy",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "eyecandycraftdecor:block/cable",
+		"particle": "eyecandycraftdecor:block/cable"
+	},
+	"elements": [
+		{
+			"name": "Shape1",
+			"from": [6.4, -5.35, 4.4],
+			"to": [9.6, 20.85, 7.6],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8.5, 5, 8]},
+			"faces": {
+				"north": {"uv": [0.25, 0.5, 1, 13.5], "texture": "#0"},
+				"east": {"uv": [-0.5, 0.5, 0.25, 13.5], "texture": "#0"},
+				"south": {"uv": [1.75, 0.5, 2.5, 13.5], "texture": "#0"},
+				"west": {"uv": [1, 0.5, 1.75, 13.5], "texture": "#0"},
+				"up": {"uv": [1, 0.5, 0.25, -1], "texture": "#0"},
+				"down": {"uv": [1.75, -1, 1, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 7.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [20, -135, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.5, -0.25, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "Shape1",
+			"origin": [0, 17, 7],
+			"color": 0,
+			"children": []
+		},
+		0
+	]
+}

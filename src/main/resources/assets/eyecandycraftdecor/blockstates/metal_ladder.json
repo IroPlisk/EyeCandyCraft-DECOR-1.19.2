@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/metal_ladder"
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/metal_ladder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/metal_ladder",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/metal_ladder",
+      "y": 90
+    }
+  }
+}

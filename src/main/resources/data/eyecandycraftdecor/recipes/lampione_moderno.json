@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iig",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "g": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "eyecandycraftdecor:lampione_moderno"
+  }
+}

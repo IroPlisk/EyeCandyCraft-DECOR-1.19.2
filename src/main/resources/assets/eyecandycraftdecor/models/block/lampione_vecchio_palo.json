@@ -1,0 +1,222 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"0": "eyecandycraftdecor:block/lampione_vecchio_palo",
+		"particle": "eyecandycraftdecor:block/lampione_vecchio_palo"
+	},
+	"elements": [
+		{
+			"name": "Sospensione",
+			"from": [7.5, 6, 7.5],
+			"to": [8.5, 12, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [5, 0.5, 4.75, 3.5], "texture": "#0"},
+				"east": {"uv": [5.25, 0.5, 5, 3.5], "texture": "#0"},
+				"south": {"uv": [5.5, 0.5, 5.25, 3.5], "texture": "#0"},
+				"west": {"uv": [4.75, 0.5, 4.5, 3.5], "texture": "#0"},
+				"up": {"uv": [4.75, 0.5, 5, 0], "texture": "#0"},
+				"down": {"uv": [5, 0, 5.25, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Paralume1",
+			"from": [6, 5, 6],
+			"to": [10, 6, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [2, 2, 1, 2.5], "texture": "#0"},
+				"east": {"uv": [3, 2, 2, 2.5], "texture": "#0"},
+				"south": {"uv": [4, 2, 3, 2.5], "texture": "#0"},
+				"west": {"uv": [1, 2, 0, 2.5], "texture": "#0"},
+				"up": {"uv": [1, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [2, 0, 3, 2], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Paralume2A",
+			"from": [5, 4, 5],
+			"to": [11, 5, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 14.5, 4, 15], "texture": "#0"},
+				"east": {"uv": [5.75, 14.5, 5.5, 15], "texture": "#0"},
+				"south": {"uv": [7.25, 14.5, 5.75, 15], "texture": "#0"},
+				"west": {"uv": [4, 14.5, 3.75, 15], "texture": "#0"},
+				"up": {"uv": [4, 14.5, 5.5, 14], "texture": "#0"},
+				"down": {"uv": [5.5, 14, 7, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Paralume2B",
+			"from": [5, 4, 10],
+			"to": [11, 5, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 14.5, 4, 15], "texture": "#0"},
+				"east": {"uv": [5.75, 14.5, 5.5, 15], "texture": "#0"},
+				"south": {"uv": [7.25, 14.5, 5.75, 15], "texture": "#0"},
+				"west": {"uv": [4, 14.5, 3.75, 15], "texture": "#0"},
+				"up": {"uv": [4, 14.5, 5.5, 14], "texture": "#0"},
+				"down": {"uv": [5.5, 14, 7, 14.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Paralume2C",
+			"from": [10, 4, 6],
+			"to": [11, 5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1.25, 12.5, 1, 13], "texture": "#0"},
+				"east": {"uv": [2.25, 12.5, 1.25, 13], "texture": "#0"},
+				"south": {"uv": [2.5, 12.5, 2.25, 13], "texture": "#0"},
+				"west": {"uv": [1, 12.5, 0, 13], "texture": "#0"},
+				"up": {"uv": [1, 12.5, 1.25, 10.5], "texture": "#0"},
+				"down": {"uv": [1.25, 10.5, 1.5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Paralume2D",
+			"from": [5, 4, 6],
+			"to": [6, 5, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1.25, 12.5, 1, 13], "texture": "#0"},
+				"east": {"uv": [2.25, 12.5, 1.25, 13], "texture": "#0"},
+				"south": {"uv": [2.5, 12.5, 2.25, 13], "texture": "#0"},
+				"west": {"uv": [1, 12.5, 0, 13], "texture": "#0"},
+				"up": {"uv": [1, 12.5, 1.25, 10.5], "texture": "#0"},
+				"down": {"uv": [1.25, 10.5, 1.5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Lampadina",
+			"from": [7, 3, 7],
+			"to": [9, 5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [1, 4.5, 0.5, 5.5], "texture": "#0"},
+				"east": {"uv": [1.5, 4.5, 1, 5.5], "texture": "#0"},
+				"south": {"uv": [2, 4.5, 1.5, 5.5], "texture": "#0"},
+				"west": {"uv": [0.5, 4.5, 0, 5.5], "texture": "#0"},
+				"up": {"uv": [0.5, 4.5, 1, 3.5], "texture": "#0"},
+				"down": {"uv": [1, 3.5, 1.5, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Braccetto",
+			"from": [7.5, 11, 8.5],
+			"to": [8.5, 12, 23.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [7.25, 12, 7, 12.5], "texture": "#0"},
+				"east": {"uv": [11, 12, 7.25, 12.5], "texture": "#0"},
+				"south": {"uv": [11.25, 12, 11, 12.5], "texture": "#0"},
+				"west": {"uv": [7, 12, 3.25, 12.5], "texture": "#0"},
+				"up": {"uv": [7, 12, 7.25, 4.5], "texture": "#0"},
+				"down": {"uv": [7.25, 4.5, 7.5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Rosone",
+			"from": [7, 10.5, 21],
+			"to": [9, 12.5, 22],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [6.75, 0.5, 6.25, 1.5], "texture": "#0"},
+				"east": {"uv": [7, 0.5, 6.75, 1.5], "texture": "#0"},
+				"south": {"uv": [7.5, 0.5, 7, 1.5], "texture": "#0"},
+				"west": {"uv": [6.25, 0.5, 6, 1.5], "texture": "#0"},
+				"up": {"uv": [6.25, 0.5, 6.75, 0], "texture": "#0"},
+				"down": {"uv": [6.75, 0, 7.25, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 2.5, -2.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 4, -2.25]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 4.25, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3.5, 0]
+		},
+		"ground": {
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [20, -135, 0],
+			"translation": [3.5, -0.5, 0]
+		},
+		"head": {
+			"translation": [0, 3.25, -12.75]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [-6.5, 0, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "Sospensione",
+			"origin": [8.5, 12, 7.5],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "Paralume1",
+			"origin": [10, 6, 6],
+			"color": 0,
+			"children": [1]
+		},
+		{
+			"name": "Paralume2A",
+			"origin": [11, 5, 5],
+			"color": 0,
+			"children": [2]
+		},
+		{
+			"name": "Paralume2B",
+			"origin": [11, 5, 10],
+			"color": 0,
+			"children": [3]
+		},
+		{
+			"name": "Paralume2C",
+			"origin": [11, 5, 6],
+			"color": 0,
+			"children": [4]
+		},
+		{
+			"name": "Paralume2D",
+			"origin": [6, 5, 6],
+			"color": 0,
+			"children": [5]
+		},
+		{
+			"name": "Lampadina",
+			"origin": [9, 5, 7],
+			"color": 0,
+			"children": [6]
+		},
+		{
+			"name": "Braccetto",
+			"origin": [8.5, 12, 8.5],
+			"color": 0,
+			"children": [7]
+		},
+		{
+			"name": "Rosone",
+			"origin": [9, 12.5, 21],
+			"color": 0,
+			"children": [8]
+		}
+	]
+}

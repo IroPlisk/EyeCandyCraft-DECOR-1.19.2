@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "eyecandycraftdecor:block/lampione_moderno",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "eyecandycraftdecor:block/lampione_moderno"
+    },
+    "facing=west": {
+      "model": "eyecandycraftdecor:block/lampione_moderno",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "eyecandycraftdecor:block/lampione_moderno",
+      "y": 270
+    }
+  }
+}

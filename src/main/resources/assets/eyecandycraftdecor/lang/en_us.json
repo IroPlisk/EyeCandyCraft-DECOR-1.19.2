@@ -40,6 +40,10 @@
   "block.eyecandycraftdecor.led_fixture_panel": "Led Panel Fixture",
   "block.eyecandycraftdecor.desk_lamp": "Desk Lamp",
   "block.eyecandycraftdecor.faro_pavimento": "Floor Light",
+  "block.eyecandycraftdecor.lampione_moderno": "Modern street lamp",
+  "block.eyecandycraftdecor.lampione_moderno_palo": "Modern street lamp with pole",
+  "block.eyecandycraftdecor.lampione_vecchio_palo": "Vintage street lamp with pole",
+
 
   "block.eyecandycraftdecor.croce_s_andrea": "St. Andrew Cross",
 

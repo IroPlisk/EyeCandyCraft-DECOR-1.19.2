@@ -20,7 +20,7 @@ plugins {
     id 'org.spongepowered.mixin' version '0.7.+'
 }
 
-version = '0.8b'
+version = '0.8.1'
 group = 'com.iroplisk.eyecandycraftdecor' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'eyecandycraftdecor'
 

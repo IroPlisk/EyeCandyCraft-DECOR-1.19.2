@@ -187,6 +187,31 @@ public class BlockInit {
                     requiresCorrectToolForDrops().noOcclusion().lightLevel((T) -> {
                         return 15;
                     })), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> LAMPIONE_MODERNO = registerBlock("lampione_moderno",
+            () -> new DesktopBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion().lightLevel((T) -> {
+                        return 15;
+                    })), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    //public static final RegistryObject<Block> LAMPIONE VECCHIO = registerBlock("faro_pavimento", TODO, NO TEXTURE NO BLOCK
+    //        () -> new DesktopBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+    //                .strength(6f).
+    //                requiresCorrectToolForDrops().noOcclusion().lightLevel((T) -> {
+    //                    return 15;
+    //                })), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> LAMPIONE_MODERNO_PALO = registerBlock("lampione_moderno_palo",
+            () -> new DesktopBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion().lightLevel((T) -> {
+                        return 15;
+                    })), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> LAMPIONE_VECCHIO_PALO = registerBlock("lampione_vecchio_palo",
+            () -> new DesktopBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion().lightLevel((T) -> {
+                        return 15;
+                    })), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+
     //trenaggio
     public static final RegistryObject<Block> BRIDGE = registerBlock("bridge",
             () -> new BridgeBlockModel(BlockBehaviour.Properties.of(Material.DECORATION)
@@ -326,6 +351,18 @@ public class BlockInit {
             () -> new BridgeBlockModel(BlockBehaviour.Properties.of(Material.DECORATION)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> GRAVITY_GUN = registerBlock("gravity_gun_deco",
+            () -> new DesktopBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion().lightLevel((T) -> {
+                        return 2;
+                    })), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
+    public static final RegistryObject<Block> PORTAL_GUN = registerBlock("portal_gun_deco",
+            () -> new DesktopBlockModel(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).
+                    requiresCorrectToolForDrops().noOcclusion().lightLevel((T) -> {
+                        return 2;
+                    })), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
 
 
 

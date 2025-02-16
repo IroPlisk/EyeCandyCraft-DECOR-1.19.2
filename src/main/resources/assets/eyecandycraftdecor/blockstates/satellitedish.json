@@ -1,19 +1,16 @@
 {
   "variants": {
     "facing=north": {
-      "model": "eyecandycraftdecor:block/satellitedish",
-      "y": 180
+      "model": "eyecandycraftdecor:block/satellitedish"
     },
     "facing=south": {
       "model": "eyecandycraftdecor:block/satellitedish"
     },
     "facing=west": {
-      "model": "eyecandycraftdecor:block/satellitedish",
-      "y": 90
+      "model": "eyecandycraftdecor:block/satellitedish"
     },
     "facing=east": {
-      "model": "eyecandycraftdecor:block/satellitedish",
-      "y": 270
+      "model": "eyecandycraftdecor:block/satellitedish"
     }
   }
 }

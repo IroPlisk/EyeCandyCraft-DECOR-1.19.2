@@ -8,7 +8,7 @@
   "block.eyecandycraftdecor.satellitedish": "Satellite Dish",
   "block.eyecandycraftdecor.antennavd": "V-Dipole Satellite Antenna",
   "block.eyecandycraftdecor.antennavhf": "VHF Yagi Uda Antenna",
-  "block.eyecandycraftdecor.antipassaggio": "Anti-pass",
+  "block.eyecandycraftdecor.antipassaggio": "Rail safety fence",
   "block.eyecandycraftdecor.latticepost": "Lattice Post",
   "block.eyecandycraftdecor.roovycacca": "Loovy melda",
   "block.eyecandycraftdecor.stante": "Stante",
@@ -34,9 +34,9 @@
   "block.eyecandycraftdecor.estintore": "Extinguisher",
 
   "block.eyecandycraftdecor.floodlight": "Floodlight",
-  "block.eyecandycraftdecor.flat_neon": "Lampadario Neon",
-  "block.eyecandycraftdecor.neon": "Neon",
-  "block.eyecandycraftdecor.lampadario": "Ceiling light",
+  "block.eyecandycraftdecor.flat_neon": "Flat fluorescent fixture",
+  "block.eyecandycraftdecor.neon": "Fluorescent fixture",
+  "block.eyecandycraftdecor.lampadario": "Pendant fixture",
   "block.eyecandycraftdecor.led_fixture_panel": "Led Panel Fixture",
   "block.eyecandycraftdecor.desk_lamp": "Desk Lamp",
   "block.eyecandycraftdecor.faro_pavimento": "Floor Light",
@@ -76,8 +76,8 @@
   "block.eyecandycraftdecor.panca_dx": "Right Bench",
   "block.eyecandycraftdecor.panca": "Bench",
   "block.eyecandycraftdecor.panca_sx": "Left Bench",
-  "block.eyecandycraftdecor.scrivania": "Desktop",
+  "block.eyecandycraftdecor.scrivania": "Desk",
   "block.eyecandycraftdecor.soffione": "Shower Head",
-  "block.eyecandycraftdecor.termosifone": "Heater",
+  "block.eyecandycraftdecor.termosifone": "Radiator",
   "block.eyecandycraftdecor.tetto_amianto": "Asbestos Roofing"
 }

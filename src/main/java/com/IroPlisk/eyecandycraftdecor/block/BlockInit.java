@@ -248,7 +248,7 @@ public class BlockInit {
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> MIC = registerBlock("mic",
-            () -> new AntennaBlockModel(BlockBehaviour.Properties.of(Material.DECORATION)
+            () -> new DesktopBlockModel(BlockBehaviour.Properties.of(Material.DECORATION)
                     .strength(6f).
                     requiresCorrectToolForDrops().noOcclusion()), ECCDCreativeTab.ECC_DECOR_CREATIVE_MODE_TAB);
     public static final RegistryObject<Block> TV = registerBlock("tv",
